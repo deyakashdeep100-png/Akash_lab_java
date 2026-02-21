@@ -19,6 +19,6 @@ class NumberCheck {
         int n = sc.nextInt();
 
         NumberCheck obj = new NumberCheck(n);
-        obj.check();
+        obj.check();sc.close();
     }
 }

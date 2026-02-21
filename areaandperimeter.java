@@ -25,5 +25,6 @@ class Rectangle {
         Rectangle r = new Rectangle(l, b);
         r.calculate(l, b);
         r.calculate((double)l, (double)b);
+        sc.close();
     }
 }

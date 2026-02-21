@@ -37,5 +37,6 @@ public class MainShape {
         r.display();
         s.display();
         c.display();
+        sc.close();
     }
 }

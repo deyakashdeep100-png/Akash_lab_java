@@ -19,6 +19,6 @@ class Divisible {
         int n = sc.nextInt();
 
         Divisible obj = new Divisible(n);
-        obj.check();
+        obj.check();sc.close();
     }
 }

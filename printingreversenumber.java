@@ -21,6 +21,6 @@ class ReverseNumber {
         int n = sc.nextInt();
 
         ReverseNumber obj = new ReverseNumber(n);
-        obj.reverse();
+        obj.reverse();sc.close();
     }
 }

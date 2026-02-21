@@ -19,6 +19,6 @@ class LeapYear {
         int y = sc.nextInt();
 
         LeapYear obj = new LeapYear(y);
-        obj.check();
+        obj.check();sc.close();
     }
 }

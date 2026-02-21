@@ -24,6 +24,6 @@ class Fibonacci {
         int n = sc.nextInt();
 
         Fibonacci obj = new Fibonacci(n);
-        obj.printSeries();
+        obj.printSeries();sc.close();
     }
 }

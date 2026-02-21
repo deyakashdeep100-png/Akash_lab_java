@@ -19,5 +19,6 @@ class Temperature {
 
         Temperature t = new Temperature(c);
         t.convert();
+        sc.close();
     }
 }

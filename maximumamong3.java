@@ -21,6 +21,6 @@ class Maximum {
         int z = sc.nextInt();
 
         Maximum obj = new Maximum(x, y, z);
-        obj.findMax();
+        obj.findMax();sc.close();
     }
 }

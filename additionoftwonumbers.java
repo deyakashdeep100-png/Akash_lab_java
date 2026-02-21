@@ -20,5 +20,8 @@ class Addition {
 
         Addition obj = new Addition(x, y);
         obj.add();
+        sc.close();
+        
     }
+    
 }

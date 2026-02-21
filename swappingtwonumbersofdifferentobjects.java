@@ -28,6 +28,6 @@ class Swap {
         obj1.swap(obj2);
 
         obj1.display();
-        obj2.display();
+        obj2.display();sc.close();
     }
 }
